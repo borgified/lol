@@ -3,6 +3,7 @@
 ### prereqs:
 - riot api key. get it [here](https://developer.riotgames.com/). save it into a file called
 "apikey" in the same directory as `run.pl`.
+- [jq](https://stedolan.github.io/jq/). on macs you can `brew install jq`
 
 ### usage:
 
